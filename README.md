@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prathamesh !
 - 👀 I’m interested in Machine Learning , Artificial Intelligence, Data Science.
-- 🌱 I’m currently learning Computer Engineering.
+- 🌱 I’m currently pursuing Bachelor's Degree in Computer Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - Email ID -prathamesh.pawar1304@gmail.com 
 
