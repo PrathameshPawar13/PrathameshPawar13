@@ -66,9 +66,9 @@ Languages   →  Python, SQL, TypeScript, Bash
 ### 📫 Let's Connect
 
 - **Email:** [prathamesh.pawar1304@gmail.com](mailto:prathamesh.pawar1304@gmail.com)
-- **LinkedIn:** [linkedin.com/in/prathameshpawar](https://linkedin.com/in/prathameshpawar)
+- **LinkedIn:** [linkedin.com/in/prathameshpawar](https://www.linkedin.com/in/prathameshpawar13/)
 - **Location:** Kaiserslautern, Germany 🇩🇪
-- **Status:** #OpenToWork — AI Engineering roles (Remote / On-site, EU)
+- **Status:** #OpenToWork — AI Engineering/Data Scientist/ Quant Researcher roles (Remote / On-site, EU)
 
 ---
 
