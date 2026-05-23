@@ -3,7 +3,7 @@
   <h3>AI Engineer | LLM Systems | Agentic AI</h3>
   <p>
     <a href="https://github.com/PrathameshPawar13"><img src="https://img.shields.io/github/followers/PrathameshPawar13?style=social" alt="GitHub followers"></a>
-    <a href="https://linkedin.com/in/prathameshpawar"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+    <a href="[https://linkedin.com/in/prathameshpawar](https://www.linkedin.com/in/prathameshpawar13/)"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
     <a href="mailto:prathamesh.pawar1304@gmail.com"><img src="https://img.shields.io/badge/-Email-red?style=flat&logo=gmail" alt="Email"></a>
     <img src="https://komarev.com/ghpvc/?username=PrathameshPawar13&color=blue" alt="Profile views">
   </p>
